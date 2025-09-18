@@ -1,1 +1,1 @@
-# SupplyTrust-app
+# SupplyTrust App
